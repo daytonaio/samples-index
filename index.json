@@ -1,5 +1,12 @@
 [
     {
+        "name": "Empty",
+        "description": "Start from scratch",
+        "gitUrl": "https://github.com/daytonaio/empty",
+        "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/base-alpine.png",
+        "rawReadmeUrl": "https://raw.githubusercontent.com/daytonaio/empty/main/other/empty-readme.md"
+    },
+    {
         "name": "Alpine",
         "description": "Simple Alpine container with Git installed.",
         "gitUrl": "https://github.com/daytonaio/sample-alpine",
