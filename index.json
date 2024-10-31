@@ -7,87 +7,10 @@
         "rawReadmeUrl": "https://raw.githubusercontent.com/daytonaio/empty/main/other/empty-readme.md"
     },
     {
-        "name": "Alpine",
-        "description": "Simple Alpine container with Git installed.",
-        "gitUrl": "https://github.com/daytonaio/sample-alpine",
-        "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/base-alpine.png",
-        "rawReadmeUrl": "https://raw.githubusercontent.com/daytonaio/sample-alpine/main/README.md"
-    },
-    {
-        "name": "Debian",
-        "description": "Simple Debian container with Git installed.",
-        "gitUrl": "https://github.com/daytonaio/sample-debian",
-        "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/base-debian.png",
-        "rawReadmeUrl": "https://github.com/daytonaio/sample-debian/blob/main/README.md"
-    },
-    {
-        "name": "Ubuntu",
-        "description": "A simple Ubuntu container with Git and other common utilities installed.",
-        "gitUrl": "https://github.com/daytonaio/sample-ubuntu",
-        "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/base-ubuntu.png",
-        "rawReadmeUrl": "https://raw.githubusercontent.com/daytonaio/sample-ubuntu/main/README.md"
-    },
-    {
-        "name": "C/C++",
-        "description": "Develop C++ applications on Linux. Includes Debian C++ build tools.",
-        "gitUrl": "https://github.com/daytonaio/sample-cpp",
-        "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/cpp.png",
-        "rawReadmeUrl": "https://raw.githubusercontent.com/daytonaio/sample-cpp/main/README.md"
-    },
-    {
-        "name": "C# (.NET)",
-        "description": "Develop C# and .NET based applications. Includes all needed SDKs, extensions, and dependencies.",
-        "gitUrl": "https://github.com/daytonaio/sample-dotnet",
-        "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/dotnet.png",
-        "rawReadmeUrl": "https://raw.githubusercontent.com/daytonaio/sample-dotnet/main/README.md"
-    },
-    {
-        "name": "Go",
-        "description": "Develop Go based applications. Includes appropriate runtime args, Go, common tools, extensions, and dependencies.",
-        "gitUrl": "https://github.com/daytonaio/sample-go",
-        "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/go.png",
-        "rawReadmeUrl": "https://raw.githubusercontent.com/daytonaio/sample-go/main/README.md"
-    },
-    {
-        "name": "Java",
-        "description": "Develop Java applications. Includes the JDK and Java extensions.",
-        "gitUrl": "https://github.com/daytonaio/sample-java",
-        "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/java.png",
-        "rawReadmeUrl": "https://raw.githubusercontent.com/daytonaio/sample-java/main/README.md"
-    },
-    {
-        "name": "PHP",
-        "description": "Develop PHP based applications. Includes needed tools, extensions, and dependencies.",
-        "gitUrl": "https://github.com/daytonaio/sample-php",
-        "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/php.png",
-        "rawReadmeUrl": "https://raw.githubusercontent.com/daytonaio/sample-php/main/README.md"
-    },
-    {
         "name": "Python",
-        "description": "Develop Python applications.",
+        "description": "Sample Python app.",
         "gitUrl": "https://github.com/daytonaio/sample-python",
         "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/python.png",
         "rawReadmeUrl": "https://raw.githubusercontent.com/daytonaio/sample-python/main/README.md"
-    },
-    {
-        "name": "Ruby",
-        "description": "Develop Ruby based applications. includes everything you need to get up and running.",
-        "gitUrl": "https://github.com/daytonaio/sample-ruby",
-        "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/ruby.png",
-        "rawReadmeUrl": "https://raw.githubusercontent.com/daytonaio/sample-ruby/main/README.md"
-    },
-    {
-        "name": "Rust",
-        "description": "Develop Rust based applications. Includes appropriate runtime args and everything you need to get up and running.",
-        "gitUrl": "https://github.com/daytonaio/sample-rust",
-        "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/rust.png",
-        "rawReadmeUrl": "https://raw.githubusercontent.com/daytonaio/sample-rust/main/README.md"
-    },
-    {
-        "name": "Node / TypeScript",
-        "description": "Develop Node.js based applications in TypeScript. Includes Node.js, eslint, nvm, yarn, and the TypeScript compiler.",
-        "gitUrl": "https://github.com/daytonaio/sample-typescript-node",
-        "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/typescript-node.png",
-        "rawReadmeUrl": "https://raw.githubusercontent.com/daytonaio/sample-typescript-node/main/README.md"
     }
 ]
