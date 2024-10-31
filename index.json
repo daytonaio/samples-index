@@ -5,12 +5,5 @@
         "gitUrl": "https://github.com/daytonaio/empty",
         "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/base-alpine.png",
         "rawReadmeUrl": "https://raw.githubusercontent.com/daytonaio/empty/main/other/empty-readme.md"
-    },
-    {
-        "name": "Python",
-        "description": "Sample Python app.",
-        "gitUrl": "https://github.com/daytonaio/sample-python",
-        "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/python.png",
-        "rawReadmeUrl": "https://raw.githubusercontent.com/daytonaio/sample-python/main/README.md"
     }
 ]
